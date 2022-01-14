@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+@import "~bootstrap/dist/css/bootstrap.css";
+
+body{
+    background:url(../../../old-book-flying-letters-magic-light-background-bookshelf-library-ancient-books-as-symbol-knowledge-history-218640948.jpeg);
+    // background:url(/Frontend/Old_Geodesy_library_books.jpeg);
+    background-color: rgb(60, 65, 65);
+}
